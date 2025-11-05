@@ -9,7 +9,7 @@ It includes structure examples for **spec sheets, measurement charts, bill of ma
 
 ## Why Elkaiva
 Elkaiva combines **design development, fabric selection, pattern engineering, and production management** under one platform.  
-Our focus is on **natural fabrics**, **precise construction**, and **sustainable small-batch manufacturing** for global brands.
+Our focus is on **natural fabrics**, **precise construction**, and **sustainable small/large-batch manufacturing** for global brands.
 
 ## Expertise
 - Private label apparel manufacturing  
