@@ -1,22 +1,39 @@
-# Elkaiva — Fashion Manufacturing Tech Pack
+# Fashion Tech Pack Templates
 
-Elkaiva is a **luxury, full-cycle private label manufacturer** for **fashion, hospitality, and home textiles**.  
-We bring **craftsmanship, material excellence, and responsible production** together in one seamless system.
+Free tech pack templates for apparel manufacturing. Download these garment specification sheets to communicate your design to any clothing manufacturer.
 
-## About This Repository
-This repository provides a **fashion manufacturing tech pack template**, designed to help designers and brands take a style from **idea to production**.  
-It includes structure examples for **spec sheets, measurement charts, bill of materials, and production notes**—built for clarity and efficiency.
+## What is a Tech Pack?
 
-## Why Elkaiva
-Elkaiva combines **design development, fabric selection, pattern engineering, and production management** under one platform.  
-Our focus is on **natural fabrics**, **precise construction**, and **sustainable small/large-batch manufacturing** for global brands.
+A tech pack (technical package) is the blueprint for manufacturing a garment. It includes all specifications a clothing manufacturer needs: measurements, materials, construction details, and quality standards.
 
-## Expertise
-- Private label apparel manufacturing  
-- High-end natural fibers (cotton, linen, wool, silk)  
-- Responsible supply chain management  
-- Pattern and sample development  
-- Technical design documentation  
+Also called: garment spec sheet, clothing specification sheet, apparel tech pack, production spec sheet.
 
-## Learn More
-Visit [www.elkaiva.com](https://www.elkaiva.com) to explore our full capabilities in luxury textile and fashion production.
+## Templates
+
+| Template | Description |
+|----------|-------------|
+| [T-Shirt Tech Pack](examples/t-shirt-tech-pack.md) | Basic crew neck t-shirt with full specifications |
+| [Hoodie Tech Pack](examples/hoodie-tech-pack.md) | Pullover hoodie with kangaroo pocket |
+| [Blank Template](templates/garment-tech-pack-template.md) | Empty template for any garment type |
+| [Size Spec Template](templates/size-spec-template.md) | Garment measurement chart |
+| [Bill of Materials](templates/bom-template.md) | BOM / trim sheet template |
+
+## What's Included
+
+- Flat sketch placement
+- Size specifications with tolerances
+- Bill of materials (fabrics, trims, labels)
+- Construction details and stitch types
+- Colorways with Pantone references
+- Labels and packaging specs
+
+## Who Uses Tech Packs
+
+- Fashion brands working with private label manufacturers
+- Clothing startups preparing for production
+- Designers communicating with factories
+- Apparel companies documenting styles
+
+---
+
+Created by [Elkaiva](https://www.elkaiva.com) — Luxury full-cycle private label manufacturer for fashion, home, and hospitality.
