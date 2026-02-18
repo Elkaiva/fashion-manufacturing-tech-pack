@@ -12,11 +12,11 @@ Also called: garment spec sheet, clothing specification sheet, apparel tech pack
 
 | Template | Description |
 |----------|-------------|
-| [T-Shirt Tech Pack](examples/t-shirt-tech-pack.md) | Basic crew neck t-shirt with full specifications |
-| [Hoodie Tech Pack](examples/hoodie-tech-pack.md) | Pullover hoodie with kangaroo pocket |
-| [Blank Template](templates/garment-tech-pack-template.md) | Empty template for any garment type |
-| [Size Spec Template](templates/size-spec-template.md) | Garment measurement chart |
-| [Bill of Materials](templates/bom-template.md) | BOM / trim sheet template |
+| [T-Shirt Tech Pack](t-shirt-tech-pack.md) | Basic crew neck t-shirt with full specifications |
+| [Hoodie Tech Pack](hoodie-tech-pack.md) | Pullover hoodie with kangaroo pocket |
+| [Blank Template](garment-tech-pack-template.md) | Empty template for any garment type |
+| [Size Spec Template](size-spec-template.md) | Garment measurement chart |
+| [Bill of Materials](bom-template.md) | BOM / trim sheet template |
 
 ## What's Included
 
